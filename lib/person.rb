@@ -1,4 +1,6 @@
 class Person
+  def initialize
+  end
 end
 
-beyonce = Person.new("Beyonce")
+beyonce = Person.new
